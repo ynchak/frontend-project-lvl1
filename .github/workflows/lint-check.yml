@@ -14,5 +14,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     
+    - name: install
+      run: make install
+     
     - name: Lint
       run: make lint
+     
