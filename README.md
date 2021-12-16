@@ -1,6 +1,6 @@
 # Brain games
 
-### Brain-even
+#### game even
 
 [![asciicast](https://asciinema.org/a/vekHvPK7VJYvyQ2e6SR6EVjxN.svg)](https://asciinema.org/a/vekHvPK7VJYvyQ2e6SR6EVjxN)
 
