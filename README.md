@@ -1,3 +1,9 @@
+# Brain games
+
+### Brain-even
+
+[![asciicast](https://asciinema.org/a/vekHvPK7VJYvyQ2e6SR6EVjxN.svg)](https://asciinema.org/a/vekHvPK7VJYvyQ2e6SR6EVjxN)
+
 ### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/ynchak/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/ynchak/frontend-project-lvl1/actions)
