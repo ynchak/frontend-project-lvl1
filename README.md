@@ -1,8 +1,22 @@
 # Brain games
 
-#### game even
+#
 
-[![asciicast](https://asciinema.org/a/vekHvPK7VJYvyQ2e6SR6EVjxN.svg)](https://asciinema.org/a/vekHvPK7VJYvyQ2e6SR6EVjxN)
+## Installation
+
+```sh
+$ make install
+$ make lint
+$ make publish
+```
+
+## IsEven
+
+[![asciicast](https://asciinema.org/a/456848.svg)](https://asciinema.org/a/456848)
+
+## Calc
+
+[![asciicast](https://asciinema.org/a/456849.svg)](https://asciinema.org/a/456849)
 
 ### Hexlet tests and linter status:
 
