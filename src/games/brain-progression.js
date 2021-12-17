@@ -18,9 +18,9 @@ const progressionToString = (coll, index) => {
   let res = '';
   coll.forEach((el, i) => {
     if (i === index) {
-      res += ' ..';
+      res += '.. ';
     } else {
-      res += ` ${el}`;
+      res += `${el} `;
     }
   });
   return res;
