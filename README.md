@@ -1,7 +1,5 @@
 # Brain games
 
-#
-
 ## Installation
 
 ```sh
@@ -17,6 +15,10 @@ $ make publish
 ## Calc
 
 [![asciicast](https://asciinema.org/a/456849.svg)](https://asciinema.org/a/456849)
+
+## gcd
+
+[![asciicast](https://asciinema.org/a/456872.svg)](https://asciinema.org/a/456872)
 
 ### Hexlet tests and linter status:
 

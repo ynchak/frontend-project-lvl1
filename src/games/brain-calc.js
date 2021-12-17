@@ -30,7 +30,7 @@ const calc = (a, op, b) => {
       res = a * b;
       break;
   }
-  return String(res);
+  return res;
 };
 const gameCalc = () => {
   const description = 'What is the result of the expression?';
@@ -41,7 +41,7 @@ const gameCalc = () => {
     const b = generateRandomNumber(10);
     const question = `${a} ${operation} ${b}`;
     const answer = calc(a, operation, b);
-    const pair = cons(question, answer);
+    const pair = cons(question, String(answer));
     pairs.push(pair);
   }
   game(description, pairs);
