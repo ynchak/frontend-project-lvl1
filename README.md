@@ -8,17 +8,21 @@ $ make lint
 $ make publish
 ```
 
-## IsEven
+## isEven
 
 [![asciicast](https://asciinema.org/a/456848.svg)](https://asciinema.org/a/456848)
 
-## Calc
+## calc
 
 [![asciicast](https://asciinema.org/a/456849.svg)](https://asciinema.org/a/456849)
 
 ## gcd
 
 [![asciicast](https://asciinema.org/a/456872.svg)](https://asciinema.org/a/456872)
+
+## prime
+
+[![asciicast](https://asciinema.org/a/456942.svg)](https://asciinema.org/a/456942)
 
 ### Hexlet tests and linter status:
 
