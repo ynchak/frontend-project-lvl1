@@ -2,12 +2,12 @@ import { cons } from '@hexlet/pairs';
 import game from '../index.js';
 import generateRandomNumber from '../util.js';
 
-const isEven = (num) => (num % 2 === 0 ? 'yes' : 'no');
+const isEven = (num) => num % 2 === 0;
 const even = () => {
   const pairs = [];
   for (let i = 0; i < 3; i += 1) {
     const question = generateRandomNumber(100);
-    const answer = isEven(question);
+    const answer = isEven(question) ? 'yes' : 'no';
     const pair = cons(question, answer);
     pairs.push(pair);
   }
